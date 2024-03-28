@@ -2,5 +2,5 @@
 
 This repository contains Unmodified, KernelSU patched and Magisk patched init_boot images for OnePlus 12R (NA).
 
-## WARNING
+## Warning
 Flash at your own risk. I am not responsible for any bricked devices or bootloops.
